@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="nightwatchTest"
+    errors="0" failures="1" hostname="" id="" package="nightwatchTest" skipped="0"
+    tests="1" time="11.00" timestamp="">
+  
+    <testcase name="TodoMVC Test" classname="nightwatchTest" time="5.498" assertions="2">
+
+      <failure message="Testing if the page title equals &#39;TodoMVC&#39; in 5000ms - expected &#34;is &#39;TodoMVC&#39;&#34; but got: &#34;TodoMVC: React&#34; (5320ms)">    at TodoMVC Test (C:\Users\walte\OneDrive\Documents\Work\todomvc\testing\nightwatchTest.js:7:17)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>

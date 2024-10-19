@@ -20,3 +20,10 @@ Object.defineProperty(module.exports, 'learnJson', {
 		});
 	}
 });
+
+//start server on local machine
+var PORT = 3000;
+
+app.listen(PORT, function() {
+    console.log(`Server is running on http://localhost:${PORT}`);
+});
